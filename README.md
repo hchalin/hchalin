@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [CrewBlastYatch](https://crewblastyacht.com/)
 
-- 🌱 I’m currently learning **React Native, Next.js, TypeScript**
+- 🌱 I’m currently learning **React Native, Next.js, TypeScript, Open Source Contributions**
 
 - 💬 Ask me about **React,**
 
