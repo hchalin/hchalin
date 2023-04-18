@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on [MyPropertyPal](https://github.com/MyPropertyPal/my-property-pal-web)
 
-- 🌱 I’m currently learning **React Native, Next.js, TypeScript, Open Source Contributions**
+- 🌱 I’m currently learning **React Native, Next.js, Open Source Contributions**
 
-- 💬 Ask me about **React,**
+- 💬 Ask me about **React, Next 13**
 
 - 📫 How to reach me **hchalin98@gmail.com**
 
