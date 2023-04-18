@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on [CrewBlastYatch](https://crewblastyacht.com/)
+- 🔭 I’m currently working on [MyPropertyPal](https://github.com/MyPropertyPal/my-property-pal-web)
 
 - 🌱 I’m currently learning **React Native, Next.js, TypeScript, Open Source Contributions**
 
