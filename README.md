@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **hchalin98@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/e/2PACX-1vQ2TKfYQb4PMWR0np8Q2OoJ2pU3z58TTv0e3SuWu-WrsgyAzh7hvreZrV1EkHjpZf4IJvNJ3qF0p21T/pub](https://docs.google.com/document/d/e/2PACX-1vQ2TKfYQb4PMWR0np8Q2OoJ2pU3z58TTv0e3SuWu-WrsgyAzh7hvreZrV1EkHjpZf4IJvNJ3qF0p21T/pub)
 
 - 🧗  Climber
 
