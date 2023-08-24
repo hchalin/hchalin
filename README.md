@@ -6,8 +6,8 @@
 
 
 
-
-- 🔭 I’m currently working on [MyPropertyPal](https://github.com/MyPropertyPal/my-property-pal-web)
+<!-- - 🔭 I’m currently working on [MyPropertyPal](https://github.com/MyPropertyPal/my-property-pal-web) -->
+- 🔭 I’m currently working on Learning ThreeJS/WebGL and blender for 3d art
 
 - 🌱 I’m currently learning **React Native, Next.js, Open Source Contributions**
 
