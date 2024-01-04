@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **Three.js, React Three Fiber**
 
-- 💬 Ask me about **React, Next 13**
-
 - 📫 How to reach me **hchalin98@gmail.com**
 
 
