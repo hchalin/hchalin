@@ -9,7 +9,7 @@
 <!-- - 🔭 I’m currently working on [MyPropertyPal](https://github.com/MyPropertyPal/my-property-pal-web) -->
 - 🔭 I’m currently working on Learning ThreeJS/WebGL and blender for 3d art
 
-- 🌱 I’m currently learning **React Native, Next.js, Open Source Contributions**
+- 🌱 I’m currently learning **Three.js, React Three Fiber**
 
 - 💬 Ask me about **React, Next 13**
 
